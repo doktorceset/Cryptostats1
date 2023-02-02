@@ -12,7 +12,7 @@ import random
 
 #Retrieving API tokens
 PORT = int(os.environ.get('PORT', 5000))
-TOKEN = os.environ['2032391705:AAEn8QLbdcCPpo7dhTWPDzudB6FuTlhztDw']
+TOKEN = os.environ['1788261935:AAFhC8FQCGJBxZV7uWZmfPcvHpKzQtfqPLc']
 NEWS_TOKEN = os.environ['03c07fd3d77daedfe0a18b46842876f8ca10eb3c']
 CMC_TOKEN = os.environ['b54bcf4d-1bca-4e8e-9a24-22ff2c3d462c']
 
